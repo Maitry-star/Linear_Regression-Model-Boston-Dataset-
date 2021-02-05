@@ -1,2 +1,2 @@
 # Linear_regression_model(Boston_House_prediction)
-# For details explanation my blog link ( Boston House prediction):- https://inblog.in/Understanding-of-Regression-Model-ujZs5K3gc7
+Detail Explanation on my blog( Boston House prediction) link:- https://inblog.in/Understanding-of-Regression-Model-ujZs5K3gc7
